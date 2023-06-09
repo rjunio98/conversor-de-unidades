@@ -1,10 +1,10 @@
 # Conversor de Unidades
-É um conversor de unidades , que converte quilômetros, metros ou milímetros
+É um conversor de unidades , que converte a quantidade escrita em quilômetros, metros ou milímetros
 
 
 
 ## Funcionalidade
-[<img src="./design/form.gif" alt="gif do da validação">]
+[<img src="./design/conversao-unidades.gif" alt="gif da conversão">]
 
 ---
 
